@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-repurpose",
+  "mcpName": "io.github.itsryanarmani/agentic-repurpose",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
