@@ -4,7 +4,7 @@
 [![Monthly downloads](https://img.shields.io/npm/dm/agentic-repurpose)](https://www.npmjs.com/package/agentic-repurpose)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit)
 
-[Package](https://www.npmjs.com/package/agentic-repurpose) · [Source and support](https://github.com/pooriaarab/agentic-repurpose)
+[Package](https://www.npmjs.com/package/agentic-repurpose) · [Source and support](https://github.com/itsryanarmani/agentic-repurpose)
 
 agentic-repurpose is an open-source content repurposing library that creates text drafts for developers. Six deterministic templates produce social captions, outlines, and scripts. It runs locally through TypeScript, a command-line interface, or Model Context Protocol (MCP).
 
@@ -129,7 +129,7 @@ No public documentation site is configured in the repository metadata.
 
 ## Status
 
-Version 0.1.0 is an early release; interfaces can change. Report problems through [GitHub issues](https://github.com/pooriaarab/agentic-repurpose/issues).
+Version 0.1.0 is an early release; interfaces can change. Report problems through [GitHub issues](https://github.com/itsryanarmani/agentic-repurpose/issues).
 Public case studies are not yet published in this repository.
 
 ## FAQ
