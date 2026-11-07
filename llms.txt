@@ -10,6 +10,6 @@ Keywords: repurpose,content,social,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-repurpose
-- Core contract: https://github.com/pooriaarab/agentic-repurpose/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-repurpose
+- Core contract: https://github.com/itsryanarmani/agentic-repurpose/blob/main/docs/agentic-core.md
 - License: MIT
