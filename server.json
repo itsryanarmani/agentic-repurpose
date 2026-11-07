@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-repurpose",
+  "name": "io.github.itsryanarmani/agentic-repurpose",
   "description": "Turn one source into platform-ready post variants.",
   "version": "0.1.0",
   "repository": {
